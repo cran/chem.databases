@@ -1,0 +1,17 @@
+59ac40bd520f7bbce8d0c975b14cf680 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+6f3aaae29667ffe5556131c42a01e1a3 *NEWS.md
+be1a005d368da68a8da81d6220cc000c *R/chem.databases-package.R
+eb263809cc0514cb133dee0a39900a91 *R/chem_wiki.R
+caedcb5fa9226127720b6244c0acb5fb *R/data-atsdr_tsca_ld50_a.R
+e1d6714d51923b8eada2166de05133f4 *R/data-atsdr_tsca_ld50_b.R
+4c93496f2aa8bdc252f63cd8137171a0 *README.md
+3e49c06af357232e20cf0f47c022b85f *data/atsdr_tsca_ld50_a.rda
+96d57965af3432218889c17384baedff *data/atsdr_tsca_ld50_b.rda
+c3cb0c9da380731ba2b17e9d48f55983 *data/chem_wiki.rda
+95e8c3eeaa36ffebfd17060a42d46ea1 *inst/WORDLIST
+a31f305bd7a62d75d4db6e802bf767b7 *man/atsdr_tsca_ld50_a.Rd
+38ddd471dae2360a02b1e63bfc0352a9 *man/atsdr_tsca_ld50_b.Rd
+8a5b39531494de7e73491793a647a05c *man/chem.databases-package.Rd
+8d4b044edecd8c8f99483a3aaff23fac *man/chem_wiki.Rd
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
